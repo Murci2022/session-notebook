@@ -5,7 +5,7 @@ mkdir (+name) create ordner
 touch (+name) create file
 find . zeichnet alle Dataien auf
 cd - reinmaschieren
-cd + n  is the home directory(tilde)
+cd + n is the home directory(tilde)
 cd .. - zurückmaschieren
 cat (+filename) - den inhalt von file zeigen
 code (+filename)
@@ -20,5 +20,3 @@ ordner haben kein punkt (index.html, README.md, etz.9
 q - quit
 mit Pfile rauf und runter kann man vorherige commands vorrufen.
 git branch (to check which branch)
-jfjfjj
-jhfjhf
