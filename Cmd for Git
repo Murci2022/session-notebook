@@ -1,0 +1,22 @@
+——Terminal—
+Command Line Interface ( CLI )
+
+mkdir (+name) create ordner
+touch (+name) create file
+find . zeichnet alle Dataien auf
+cd - reinmaschieren
+cd + n  is the home directory(tilde)
+cd .. - zurückmaschieren
+cat (+filename) - den inhalt von file zeigen
+code (+filename)
+ls - auslisten
+ls -la - versteckte file auflisten
+tree (nur diese command) - zeigt alle files an in einem Baumformat
+tree -la (zeigt alle files an in einem Baumformat/auch versteckte files)
+tree -a (shows tree with hidden files)
+pwd - show where you are
+man (funktion name z. B. cd-dann es listet auf)
+ordner haben kein punkt (index.html, README.md, etz.9
+q - quit
+mit Pfile rauf und runter kann man vorherige commands vorrufen.
+git branch (to check which branch)
